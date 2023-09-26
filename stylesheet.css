@@ -77,13 +77,13 @@ nav ul li a:hover::after{
 }
 .about-col-1{
     flex-basis: 35%;
-    position: relative;
-    background-size: cover;
 }
 .about-col-1 img{
     width: 100%;
     height: 100%;
     border-radius: 15px;
+    position: relative;
+    background-size: cover;
 }
 .about-col-2{
     flex-basis: 60%;
