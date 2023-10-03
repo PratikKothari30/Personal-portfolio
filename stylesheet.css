@@ -308,6 +308,18 @@ form input, form textarea{
   font-size: 300;
   margin-top: 2px;
 }
+#msg{
+  color: #61b752;
+  margin-top: -40px;
+  text-align: center;
+  display: block;
+}
+.top{
+  position: fixed;
+  bottom: 2.1rem;
+  right: 2.1rem;
+  margin-bottom: -35px;
+}
 /*--------------------CSS for small Screen--------------------*/
 @media only screen and (max-width: 600px){
   #header{
@@ -323,16 +335,4 @@ form input, form textarea{
   .header-text h3 span{
     font-size: 30px;
   }
-}
-#msg{
-  color: #61b752;
-  margin-top: -40px;
-  text-align: center;
-  display: block;
-}
-.top{
-  position: fixed;
-  bottom: 2.1rem;
-  right: 2.1rem;
-  margin-bottom: -25px;
 }
