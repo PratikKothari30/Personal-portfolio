@@ -303,10 +303,10 @@ form input, form textarea{
 .copyright{
   width: 100%;
   text-align: center;
-  padding: 25px 0;
+  padding: 18px 0;
   background: #262626;
   font-size: 300;
-  margin-top: 20px;
+  margin-top: 2px;
 }
 /*--------------------CSS for small Screen--------------------*/
 @media only screen and (max-width: 600px){
