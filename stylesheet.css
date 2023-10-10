@@ -326,7 +326,7 @@ nav .delete-sign{
 }
 @media only screen and (max-width: 815px){
   #header{
-    background-image: url(images/phone-background.png);
+    background-image: url(phone-background.png);
   }
   .header-text h4{
     margin-top: 40%;
