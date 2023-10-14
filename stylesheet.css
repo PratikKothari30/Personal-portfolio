@@ -324,7 +324,7 @@ form input, form textarea{
 nav .delete-sign{
   display: none;
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 298px){
   #header{
     background-image: url(phone-background.png);
   }
